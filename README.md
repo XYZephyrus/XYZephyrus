@@ -1,8 +1,9 @@
-*”Never trust anything you see on the internet.“*
-
-
 <!-- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) --> 
 ![CSS3](https://img.shields.io/badge/CSS3-663399?style=flat-square&logo=css&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white&fontColor=white)
+
+---
+
+*”Never trust anything you see on the internet.“*
 
 ---
 
